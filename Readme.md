@@ -1,3 +1,33 @@
+### Testify
+
+
+For this assignment we created our own tests and for hard mode navigated through existing code to make broken tests
+pass.
+
+Our testing framework is Chai. We are getting accustomed to seeing and using `const` (keeps the identifier from changing and provides the least amount of confusion over what is being referred to) and `let` (can reassign this variable/ indicates that a particular variable may change though I guess not necessarily?). I'm still unclear about about when `let` vs `var`, though.
+
+We had to acclimate to writing tests and then writing more code which is kind of uncomfortable initially.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hi and welcome to team Gilded Rose.
 
 As you know, we are a small inn with a prime location in a prominent city ran
