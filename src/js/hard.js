@@ -49,9 +49,13 @@ class GildedRose {
         }
       }
     }
-    if (this.quality > 1) {
+    if (this.quality > 0) {
       if (this.name == 'Conjured Mana Cake') {
         this.quality = this.quality -2;
+      } else if (this.quality < 0) {
+        if (this.name == 'Conjured Mana Cake'){
+          this.SellIn == this.quality -4;
+        }
       }
     }
   }
