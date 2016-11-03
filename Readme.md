@@ -8,12 +8,7 @@ Our testing framework is Chai. We are getting accustomed to seeing and using `co
 
 We had to acclimate to writing tests and then writing more code which is kind of uncomfortable initially.
 
- 
-
-
-
-
-
+##Instructions for Gilded Rose
 
 Hi and welcome to team Gilded Rose.
 
