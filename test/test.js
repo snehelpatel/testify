@@ -12,10 +12,14 @@ const assert = chai.assert;
 describe('Fizzbuzz returns values for different kinds of numbers', function () {
   it('should return the number for "basic" numbers', function () {
     let result = fizz(4);
-    assert.equal(result, undefined);
+    assert.equal(result, 4);
   });
 
-  // Your Tests Here
+  // it ('should return the number for "fizz" numbers', function (){
+  //   let result = fizz(3);
+  //   assert.equal(result, );
+  // })
+
 });
 
 // UNCOMMENT THE SECTION BELOW FOR HARD MODE
