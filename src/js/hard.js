@@ -54,7 +54,7 @@ class GildedRose {
         this.quality = this.quality -2;
       } else if (this.quality < 0) {
         if (this.name == 'Conjured Mana Cake'){
-          this.SellIn == this.quality -4;
+          this.quality == this.quality -4;
         }
       }
     }
