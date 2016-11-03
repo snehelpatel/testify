@@ -11,7 +11,15 @@ function fizz (number) {
 };
 
 function fizzBuzz (start, end) {
-  // Write fizzBuzz here once fizz is finished.
+  for (var i = start ; i <= end; i++ ) {
+    var results = fizz(i)
+    console.log(fizz(i))
+  }
 };
+(fizzBuzz(1, 89))
+
+
+
+
 
 export { fizz };

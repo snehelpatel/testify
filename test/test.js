@@ -26,6 +26,7 @@ describe('Fizzbuzz returns values for different kinds of numbers', function () {
   });
 
   it('should return "fizzbuzz" for numbers divisible by 15', function (){
+    //a random multiple of 3 and 5/ 15 
     let result = fizz(30);
     assert.equal(result, "fizzbuzz")
   });
